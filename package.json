@@ -1,0 +1,7 @@
+{
+  "name": "FinAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "André Mezavila <mezavilaandre@yahoo.com.br>",
+  "license": "MIT"
+}
